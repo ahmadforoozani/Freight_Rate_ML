@@ -1,0 +1,36 @@
+
+
+scorer_results/
+app/score.py
+
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Testing / coverage
+.pytest_cache/
+
+
+# IDEs
+.vscode/
+.idea/
+
+
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python type checkers
+.mypy_cache/
+.pyre/
+
